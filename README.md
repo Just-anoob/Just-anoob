@@ -5,4 +5,4 @@
 
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Just-anoob)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Just-anoob&show_icons=true)
