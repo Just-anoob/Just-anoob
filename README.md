@@ -55,6 +55,8 @@
 
 <br>
 
+Credit to: https://github.com/tayyabadev
+
 <!-- <div align="center">
   <a href="https://github.com/tayyabadev">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
